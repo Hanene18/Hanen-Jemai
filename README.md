@@ -1,7 +1,7 @@
 # 👋 Hanen Jemai
 ## Data Analyst | Python | Excel | Power BI | SQL
 
-🎓 Master en Mathématiques & Data Science  
+🎓 Master en Mathématiques & Data Science & PL-300 certified 
 📍 Tunisia  
 
 Je suis passionnée par l’analyse de données, la visualisation et la création de dashboards interactifs.  
@@ -13,7 +13,7 @@ J’aime transformer les données brutes en informations exploitables pour aider
 
 - 🐍 **Python** : Pandas, NumPy, Matplotlib, Seaborn
 - 📊 **Power BI** : Desktop, Service, DAX, KPI, dashboards interactifs
-- 📈 **Excel** : Tableaux croisés dynamiques, formules avancées, macros
+- 📈 **Excel** : Tableaux croisés dynamiques, formules avancées
 - 🗄️ **SQL** : Requêtes, Jointures, Modélisation de données
 - 💾 **Data Management** : Nettoyage, transformation et analyse de données
 - 🎨 **Visualisation** : Graphiques, cartes, storytelling
